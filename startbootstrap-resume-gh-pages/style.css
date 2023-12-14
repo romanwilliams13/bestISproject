@@ -1,0 +1,21 @@
+body{
+    background-color: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.mainfont{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header{
+    font-size: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkslategray;
+}
+
+.smallfont{
+   font-size: 18px;
+    position: relative;
+    list-style-type: none;
+}
